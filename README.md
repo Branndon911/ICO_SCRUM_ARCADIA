@@ -9,3 +9,4 @@ edgarernestocruzreyes@gmail.com
 
 Cruz Alcauter Alexis - 
 Scrum Team -
+alexiso90@hotmail.com
