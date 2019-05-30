@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Apartado 2</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Bienvenido al Proyecto Final de Sistemas de Informacion</h1>
+  <h2/>Apartado 2</h2>
+  <p>Pagina 1 - Sistemas de Informacion Transaccionales</p> 
+  <p>Pagina 2 - Sistemas de Informacion de Gestión de Relaciones con los Clientes</p> 
+  <p>Pagina 3 - Sistemas de Información Gerencial</p> 
+</div>
+
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/21.html">1</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/22.html">2</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/23.html">3</a></li>
+  </ul>
+</nav>
+  
+
+</body>
+</html>
