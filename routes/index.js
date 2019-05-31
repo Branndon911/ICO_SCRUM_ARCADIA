@@ -49,4 +49,24 @@ router.get('/apartado3',(req, res, next) =>{
     title: 'Apartado 3'
   });
 });
+router.get('/apartado4',(req, res, next) =>{
+  res.render('apartado4',{
+    title: 'Apartado 4'
+  });
+});
+router.get('/brandon',(req, res, next) =>{
+  res.render('brandon',{
+    title: 'brandon'
+  });
+});
+router.get('/ernesto',(req, res, next) =>{
+  res.render('ernesto',{
+    title: 'ernesto'
+  });
+});
+router.get('/alcauter',(req, res, next) =>{
+  res.render('alcauter',{
+    title: 'alcauter'
+  });
+});
 module.exports = router;
