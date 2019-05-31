@@ -1,0 +1,31 @@
+{
+  "name": "ICO_SCRUM_ARCADIA",
+  "version": "1.0.0",
+  "description": "Aparicio Ortega Brandon -\r Product Owner -\r brannz9@hotmail.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branndon911/ICO_SCRUM_ARCADIA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Branndon911/ICO_SCRUM_ARCADIA/issues"
+  },
+  "homepage": "https://github.com/Branndon911/ICO_SCRUM_ARCADIA#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
