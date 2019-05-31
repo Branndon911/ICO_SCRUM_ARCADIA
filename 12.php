@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Información Útil</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+ <h2>Información Útil</h2>
+ <p>Para ser útil, la información debe ser relevante, completa, precisa y actual</p>
+ <p>Características:</p>
+ <p>	• Relevante</p>
+ <p>	• Organizada para un propósito</p>
+ <p>	• Tiene un contexto</p>
+ <p>	• Exacta.- libre de errores. El sistema debe contar con mecanismos de verificación.</p>
+ <p>	• Completa.- contiene los hechos relevantes.</p>
+ <p>	• Económica .- El costo de la producción de la información debe ser relativamente barato. Las personas que toman las decisiones siempre deben balancear el valor de la información con el costo de producirla.</p>
+<p>		• Flexible.- La información es fl exible cuando puede utilizarse para una gran variedad de propósitos</p>
+<p>		• Relevante.- Es relevante cuando es importante para las personas que toman las decisiones.</p>
+<p>		• Segura.- Protección al acceso de la información. 
+<p>		• Accesible.- Los usuarios autorizados deben poder acceder a la información de una manera fácil, de tal forma que puedan obtenerla  en el formato correcto y en el tiempo preciso para satisfacer sus necesidades.</p>
+<p>		• Simple.- La información debe establecerse en términos claros y concisos.</p>
+<p>		• Oportuna.- Cuando se requiere y tiene un valor para el negocio.
+<p>		• Verificable.- Puede ser comprobada para verificar que es correcta.</p>
+ <p></p>
+</div>
+
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/11.html">1</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/12.html">2</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/13.html">3</a></li>
+  </ul>
+</nav>
+  
+
+</body>
+</html>

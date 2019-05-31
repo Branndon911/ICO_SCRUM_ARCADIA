@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Componentes Basicos de un Sistema de Información</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+ <h2>Componentes Basicos de un Sistema de Información</h2>
+ <h3>Un sistema de información acepta recursos de datos como entrada y los procesa en productos de información como salida. Los recursos de los cuales dependen son: personas, hardware, software, datos y redes;  los cuales usa para desempeñar actividades de entrada, procesamiento, salida, almacenamiento y control, que conviertan los recursos de datos en productos de información.</h3>
+ <h3>RECURSOS DE LOS SISTEMAS DE INFORMACIÓN.
+Personas, hardware, software, datos y redes son los cinco recursos básicos de los sistemas de información.</h3>
+ <h3>RECURSO DE PERSONAS.
+Base para la operación exitosa de todos los sistemas de información. Incluye:</h3>
+ <h3>Usuarios finales (usuarios o clientes)._ personas que utilizan un sistema de información o la información que éste produce. Pueden ser clientes, vendedores, ingenieros, oficinistas, contadores o gerentes. Los usuarios finales en los negocios son trabajadores del conocimiento (personas que se dedican a comunicar, colaborar en equipos de trabajo, crear, usar y distribuir información).</h3>
+ <h3>Especialistas de SI._ personas que desarrollan y operan los sistemas de información.Incluyen analistas de sistemas, desarrolladores de software, operadores de sistemas y demás personal gerencial, técnico y de oficina. Los analistas de sistemas diseñan los sistemas de información, los desarrolladores de software crean programas informáticos y los operadores de sistemas ayudan a monitorear y operar grandes sistemas y redes de cómputo.</h3>
+ <h3>RECURSO DE HARDWARE.
+Incluye todos los dispositivos y materiales físicos utilizados en el procesamiento de la información, esto incluye a todos los objetos tangibles en los que se registran los datos.
+Como ejemplos de hardware en sistemas de información basados en computadoras son:
+Sistemas de cómputo._ consisten en unidades centrales de procesamiento que contienen microprocesadores y una variedad de dispositivos periféricos interconectados. Pueden ser computadoras de mano, laptops o computadoras de escritorio y los grandes sistemas de cómputo central (mainframe).
+Periféricos de cómputo._son dispositivos que sirven para la entrada de datos y comandos, así como para la salida de la información, y para el almacenamiento de los recursos de datos.
+</h3>
+ <h3>RECURSOS DE SOFTWARE.
+Incluye no sólo los conjuntos de instrucciones operativas llamados programas, los cuales dirigen y controlan el hardware informático, sino también los grupos de instrucciones para el procesamiento de información, llamados procedimientos, que las personas necesitan.
+Es importante entender que, incluso los sistemas de información que no utilizan computadoras, tienen un componente de recursos de software.
+Los siguientes son ejemplos de recursos de software:
+Software de sistema: sistema operativo, el cual controla y apoya las operaciones de un sistema informático.
+Software de aplicación: son programas que dirigen el procesamiento hacia un uso particular de las computadoras por parte de los usuarios finales.
+Procedimientos: son instrucciones de operación para las personas que utilizarán un sistema de información.</h3>
+ <h3>RECURSOS DE DATOS.
+Constituyen recursos valiosos en la organización. Por eso deben ser administrados demanera eficaz para beneficiar a todos los usuarios finales de una organización.
+Los datos capturados se almacenan, procesan y analizan, mediante el uso de aplicaciones muy sofisticadas de software que pueden revelar relaciones complejas acerca de ventas, clientes, competidores y mercados.
+Los recursos de datos de los sistemas de información, por lo general se organizan, almacenan y obtienen, mediante diversas tecnologías de administración de recursos de datos, en:
+Bases de datos: mantienen los datos procesados y organizados.
+Bases de conocimiento: mantienen el conocimiento en diversas formas, tales como hechos, reglas y ejemplos de casos acerca de las prácticas de negocio exitosas.</h3>
+ <h3>RECURSOS DE REDES.
+Las tecnologías y redes de telecomunicaciones, son esenciales para las operaciones exitosas de negocio y comercio electrónicos de todo tipo de organizaciones y de sus sistemas de información basados en computadoras. Los recursos de redes enfatiza que las tecnologías y redes de comunicaciones son un componente fundamental de recursos de todos los sistemas de información.
+Los recursos de redes incluyen:
+Medios de comunicación: comprenden cables de par trenzado, cables coaxiales y de fibra óptica; y las tecnologías inalámbricas de microondas, celular y satelital.
+Infraestructura de redes: se necesitan muchas tecnologías de hardware, software y de datos para apoyar la operación y el uso de una redde comunicaciones. Pueden ser módems y procesadores de grupos de redes, y software de control de comunicaciones.</h3>
+ <h3></h3>
+</div>
+
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/11.html">1</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/12.html">2</a></li>
+    <li class="page-item"><a class="page-link" href="C:/Users/Alpha/Desktop/13.html">3</a></li>
+  </ul>
+</nav>
+  
+
+</body>
+</html>
