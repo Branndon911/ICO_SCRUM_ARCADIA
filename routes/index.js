@@ -44,4 +44,9 @@ router.get('/MIS',(req, res, next) =>{
     title: 'MIS'
   });
 });
+router.get('/apartado3',(req, res, next) =>{
+  res.render('apartado3',{
+    title: 'Apartado 3'
+  });
+});
 module.exports = router;
