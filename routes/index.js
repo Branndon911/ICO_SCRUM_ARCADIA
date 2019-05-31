@@ -24,4 +24,24 @@ router.get('/Componentes',(req, res, next) =>{
     title: 'Componentes'
   });
 });
+router.get('/apartado2',(req, res, next) =>{
+  res.render('apartado2',{
+    title: 'Apartado 2'
+  });
+});
+router.get('/TPS',(req, res, next) =>{
+  res.render('TPS',{
+    title: 'TPS'
+  });
+});
+router.get('/CRM',(req, res, next) =>{
+  res.render('CRM',{
+    title: 'CRM'
+  });
+});
+router.get('/MIS',(req, res, next) =>{
+  res.render('MIS',{
+    title: 'MIS'
+  });
+});
 module.exports = router;
